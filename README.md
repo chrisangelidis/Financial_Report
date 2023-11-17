@@ -1,4 +1,4 @@
-# Financial_Report
+# Financial_Sales_Analysis_Report
 ## Overview
 This repository contains a financial report created using Power BI. The report is designed to visualize and analyze financial data, providing insights into key metrics, trends, and performance indicators for better decision-making.
 
