@@ -12,5 +12,5 @@ This repository contains a financial report created using Power BI. The report i
 - Financial_Sales_Analysis.pbix: Power BI report file containing visuals, data models, and dashboard components.
 - Data/: Directory containing sample or actual data sources used in the report.
 # Resources
--[Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)https://learn.microsoft.com/en-us/power-bi/
+- [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)https://learn.microsoft.com/en-us/power-bi/
 - [Power BI Community](https://community.fabric.microsoft.com/t5/Power-BI-forums/ct-p/powerbi)https://community.fabric.microsoft.com/t5/Power-BI-forums/ct-p/powerbi
